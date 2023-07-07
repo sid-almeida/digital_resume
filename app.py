@@ -111,9 +111,9 @@ st.write("🚧", "**Intern | IFRS - Caxias do Sul**")
 st.write("06/2023 - Present")
 st.write(
     """
-- ► Use Excel to manage and analyze the university's students data
+- ► Used Excel to manage and analyze the university's students data
 - ► Utilize Python to automate he various tasks related to managing the students data
-- ► Assist the Various teams with the development of new projects and initiatives
+- ► Assisted the Various teams with the development of new projects and initiatives
 """
 )
 
@@ -123,10 +123,10 @@ st.write("🚧", "**Freelancer | Web Development and Design**")
 st.write("01/2020 - Present")
 st.write(
     """
-- ► Build and maintain websites for small businesses
-- ► Design and develop websites using WordPress, Bubble, Bitrix24 and Wix
-- ► Make integrations with CRM, ERP and other systems
-- ► Provide support and training to clients on how to use the websites
+- ► Built and maintained websites for small businesses
+- ► Designed and developed websites using WordPress, Bubble, Bitrix24 and Wix
+- ► Made integrations with CRM, ERP and other systems
+- ► Provided support and training to clients on how to use the websites
 """
 )
 
@@ -139,7 +139,7 @@ st.write(
 - ► Operated and maintained machines to produce aluminum products
 - ► Ensured the quality of the products by performing quality checks
 - ► Collaborated with the team to improve the production processes
-- ► Lead a team of 5 people to achieve the production goals
+- ► Led a small team of 5 - 10 people to achieve the production goals
 """
 )
 

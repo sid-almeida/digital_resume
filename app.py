@@ -73,6 +73,7 @@ for index, (platform, link) in enumerate(SOCIAL_MEDIA.items()):
 # --- EXPERIENCE & QUALIFICATIONS ---
 st.write('\n')
 st.subheader("Experience & Qualifications")
+st.write("---")
 st.write(
     """
 - ✔️ 2 Years experience extracting insights from data
@@ -88,6 +89,7 @@ st.write(
 # --- SKILLS ---
 st.write('\n')
 st.subheader("Hard Skills")
+st.write("---")
 st.write(
     """
 - 👩‍💻 Data Mining / Manipulation: Python (Pandas, Polars), SQL, C++

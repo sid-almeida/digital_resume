@@ -29,7 +29,7 @@ SOCIAL_MEDIA = {
 PROJECTS = {
     "🏆 Bankruptcy Prediction App - Uses 96 features to predict the probability of bankruptcy of a business.": "https://datascience-yxuwz2bmvo.streamlit.app/",
     "🏆 UniKeep (In progress) - Web app that trains a model to predict the student's dropout probability.": "https://unikeep.streamlit.app/",
-    "🏆 Churn Prediction - A web application that predicts the churning of clients of a company.": "https://youtu.be/LzCfNanQ_9c",
+    "🏆 Churn Prediction - A web application that predicts the churning of clients of a telecommunication company.": "https://telecochurn-zjg4hpgfoyd.streamlit.app/",
     "🏆 Cement Prediction Model - Web app that predicts the demand for an indian cement company": "https://cementdemand-4dxl4y111if.streamlit.app/",
     "🏆 Heart Failure Death Prediction - Web application that uses data to predict the chances of death of a patient": "https://sid-almeida-datasc-heart-failure-mortality-predictionapp-7liskx.streamlit.app/",
 }

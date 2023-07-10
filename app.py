@@ -17,7 +17,7 @@ PAGE_TITLE = "Digital CV | Sidnei Almeida"
 PAGE_ICON = ":wave:"
 NAME = "Sidnei Almeida"
 DESCRIPTION = """
-Data Science Enthusiast / Management Processes Student, assisting enterprises by supporting data-driven decision-making.
+Data Science Enthusiast / Management Processes Student / Passionate Data Science Intern with expertise in Python, machine learning, and data analysis. Strong problem-solving skills and a drive to leverage data for meaningful insights. Seeking hands-on experience and an opportunity to contribute to impactful projects. 
 """
 EMAIL = "sidnei.almeida1806@gmail.com"
 SOCIAL_MEDIA = {

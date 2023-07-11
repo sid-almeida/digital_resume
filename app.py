@@ -32,7 +32,7 @@ PROJECTS = {
     "🏆 Churn Prediction - A web application that predicts the churning of clients of a telecommunication company.": "https://telecochurn-zjg4hpgfoyd.streamlit.app/",
     "🏆 Cement Prediction Model - Web app that predicts the demand for an indian cement company": "https://cementdemand-4dxl4y111if.streamlit.app/",
     "🏆 Heart Failure Death Prediction - Web application that uses data to predict the chances of death of a patient": "https://sid-almeida-datasc-heart-failure-mortality-predictionapp-7liskx.streamlit.app/",
-    "🏆 Crop Suggestion- Web application that uses data to suggest the most suitable crops to grow in a particular farm based on various parameters.": "https://cropsuggestionml-y40a0g7ihrq.streamlit.app/",
+    "🏆 Crop Suggestion - A web app that uses data to suggest the most suitable crops to grow in a particular farm based on various parameters.": "https://cropsuggestionml-y40a0g7ihrq.streamlit.app/",
 
 }
 

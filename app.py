@@ -33,6 +33,8 @@ PROJECTS = {
     "🏆 Cement Prediction Model - Web app that predicts the demand for an indian cement company": "https://cementdemand-4dxl4y111if.streamlit.app/",
     "🏆 Heart Failure Death Prediction - Web application that uses data to predict the chances of death of a patient": "https://sid-almeida-datasc-heart-failure-mortality-predictionapp-7liskx.streamlit.app/",
     "🏆 Crop Suggestion - A web app that uses data to suggest the most suitable crops to grow in a particular farm based on various parameters.": "https://cropsuggestionml-y40a0g7ihrq.streamlit.app/",
+    "🏆 Breast Cancer Diagnostic - A web app that uses data to predict the type of breast cancer based on various features.": "https://cancerdemama-fjrysegzqbjppntn7bmard.streamlit.app/",
+    
 
 }
 
